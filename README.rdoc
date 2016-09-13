@@ -23,6 +23,10 @@ Things you may want to cover:
 
 * ...
 
+Tut
+https://www.youtube.com/watch?v=lXnK4foYtCk
+Postgresql tut
+https://www.youtube.com/watch?v=xaWlS9HtWYw
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
