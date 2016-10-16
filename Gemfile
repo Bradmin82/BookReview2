@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.2.6'
 # gem 'sqlite3', group: :development # Added development group.
-gem 'pg'#, #group: :production # Added postgres and made it production only.
+gem 'pg', '~> 0.18.0'#, #group: :production # Added postgres and made it production only.
 #gem 'rails_12factor'
 gem 'sass-rails', '~> 5.0'
 gem 'simple_form', '~> 3.1.0'
